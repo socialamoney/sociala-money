@@ -1,0 +1,9 @@
+node_modules
+.next
+out
+coverage
+public/__grok
+src
+scripts
+migrations
+package-lock.json

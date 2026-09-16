@@ -1,0 +1,13 @@
+# Minimal Supabase CLI config. Fill project_id after linking a remote project.
+project_id = ""
+
+[api]
+enabled = true
+
+[auth]
+enabled = true
+site_url = "https://money.socialaagency.com"
+additional_redirect_urls = ["http://localhost:8080"]
+
+[functions]
+# Add functions here as they are implemented.

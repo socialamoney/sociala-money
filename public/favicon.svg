@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Sociala Money">
+  <rect width="32" height="32" rx="8" fill="#1A73E8"/>
+  <text
+    x="16"
+    y="16.4"
+    text-anchor="middle"
+    dominant-baseline="central"
+    fill="#FFFFFF"
+    font-family="Arial, Helvetica, Liberation Sans, sans-serif"
+    font-size="20"
+    font-weight="700">S</text>
+</svg>

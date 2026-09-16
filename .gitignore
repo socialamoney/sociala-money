@@ -1,0 +1,56 @@
+# dependencies
+node_modules
+.pnp
+.pnp.js
+
+# next
+.next
+out
+
+# env — never commit secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env*.local
+
+# logs / debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# tests / coverage
+coverage
+test-results
+playwright-report
+playwright/.cache
+blob-report
+
+# editors / os
+.DS_Store
+.idea
+.vscode/*
+!.vscode/extensions.json
+*.tsbuildinfo
+
+# vercel
+.vercel
+
+# grok app-builder sandbox (not part of the product)
+.grok
+AGENTS.md
+AGENTS.project.md
+artifacts
+screenshots
+public/__grok
+/src
+/scripts
+/migrations
+vite.config.ts
+/server/middleware
+/server/virtual-grok-og-identity.d.ts
+.node_modules.lock
+.project_id
+startup.sh
